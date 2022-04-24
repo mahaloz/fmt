@@ -1,0 +1,5 @@
+project: fmt
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme
